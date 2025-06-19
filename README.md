@@ -1,4 +1,4 @@
-![Last Commit](https://img.shields.io/github/last-commit/vasu31dev/playwright-ts) ![Pull Requests](https://img.shields.io/github/issues-pr-raw/vasu31dev/playwright-ts)
+
 
 ---
 
@@ -392,7 +392,3 @@ Here are some recommended best practices when using this framework:
   - [Debugging](https://playwright.dev/docs/debug)
 
 In addition to these, Playwright also recommends following certain best practices. You can find more details in the [Playwright Best Practices documentation](https://playwright.dev/docs/best-practices)
-
-## Contribution guide
-
-Contributions are welcome! Please read the contributing guidelines first. (In progress)
